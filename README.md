@@ -1,4 +1,4 @@
-# Fashion MNIST classifier 
+# Fashion MNIST 
 
 I'm teaching myself machine learning and this is one of the projects I'm using for this goal.
 
